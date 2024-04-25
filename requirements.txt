@@ -1,1 +1,1 @@
-pip install tensorflow
+py -m pip install -r requirements.txt
